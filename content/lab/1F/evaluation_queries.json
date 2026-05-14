@@ -1,0 +1,158 @@
+[
+  {
+    "query_id": "dog_snow_001",
+    "query_text": "a dog playing in the snow",
+    "reference_image_id": "dog_snow_reference",
+    "required_terms": [
+      "dog",
+      "snow"
+    ],
+    "optional_terms": [
+      "playing",
+      "running",
+      "white"
+    ],
+    "query_modes": [
+      "text",
+      "image",
+      "fused"
+    ],
+    "manual_relevant_image_ids": []
+  },
+  {
+    "query_id": "children_beach_001",
+    "query_text": "children playing on a beach",
+    "reference_image_id": "children_beach_reference",
+    "required_terms": [
+      "children",
+      "beach"
+    ],
+    "optional_terms": [
+      "playing",
+      "sand",
+      "water"
+    ],
+    "query_modes": [
+      "text",
+      "image",
+      "fused"
+    ],
+    "manual_relevant_image_ids": []
+  },
+  {
+    "query_id": "man_bicycle_001",
+    "query_text": "a man riding a bicycle",
+    "reference_image_id": "man_bicycle_reference",
+    "required_terms": [
+      "man",
+      "bicycle"
+    ],
+    "optional_terms": [
+      "riding",
+      "bike",
+      "street"
+    ],
+    "query_modes": [
+      "text",
+      "image",
+      "fused"
+    ],
+    "manual_relevant_image_ids": []
+  },
+  {
+    "query_id": "soccer_ball_001",
+    "query_text": "a soccer player kicking a ball",
+    "reference_image_id": "soccer_ball_reference",
+    "required_terms": [
+      "soccer",
+      "ball"
+    ],
+    "optional_terms": [
+      "player",
+      "kicking",
+      "field"
+    ],
+    "query_modes": [
+      "text",
+      "image",
+      "fused"
+    ],
+    "manual_relevant_image_ids": []
+  },
+  {
+    "query_id": "horse_field_001",
+    "query_text": "a horse running in a field",
+    "reference_image_id": "horse_field_reference",
+    "required_terms": [
+      "horse",
+      "field"
+    ],
+    "optional_terms": [
+      "running",
+      "grass",
+      "rider"
+    ],
+    "query_modes": [
+      "text",
+      "image",
+      "fused"
+    ],
+    "manual_relevant_image_ids": []
+  },
+  {
+    "query_id": "surfer_wave_001",
+    "query_text": "a surfer riding a wave",
+    "reference_image_id": "surfer_wave_reference",
+    "required_terms": [
+      "surfer",
+      "wave"
+    ],
+    "optional_terms": [
+      "ocean",
+      "water",
+      "riding"
+    ],
+    "query_modes": [
+      "text",
+      "image",
+      "fused"
+    ],
+    "manual_relevant_image_ids": []
+  },
+  {
+    "query_id": "people_table_001",
+    "query_text": "a group of people sitting at a table",
+    "reference_image_id": "people_table_reference",
+    "required_terms": [
+      "people",
+      "table"
+    ],
+    "optional_terms": [
+      "sitting",
+      "group",
+      "restaurant"
+    ],
+    "query_modes": [
+      "text"
+    ],
+    "manual_relevant_image_ids": []
+  },
+  {
+    "query_id": "boy_jump_001",
+    "query_text": "a boy jumping in the air",
+    "reference_image_id": "boy_jump_reference",
+    "required_terms": [
+      "boy",
+      "jumping"
+    ],
+    "optional_terms": [
+      "air",
+      "outside",
+      "grass"
+    ],
+    "query_modes": [
+      "text"
+    ],
+    "manual_relevant_image_ids": []
+  }
+]
