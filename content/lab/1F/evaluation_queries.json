@@ -2,7 +2,7 @@
   {
     "query_id": "dog_snow_001",
     "query_text": "a dog playing in the snow",
-    "reference_image_id": "dog_snow_reference",
+    "reference_image_id": "flickr8k_7b25162904de",
     "required_terms": [
       "dog",
       "snow"
@@ -22,7 +22,7 @@
   {
     "query_id": "children_beach_001",
     "query_text": "children playing on a beach",
-    "reference_image_id": "children_beach_reference",
+    "reference_image_id": null,
     "required_terms": [
       "children",
       "beach"
@@ -33,16 +33,14 @@
       "water"
     ],
     "query_modes": [
-      "text",
-      "image",
-      "fused"
+      "text"
     ],
     "manual_relevant_image_ids": []
   },
   {
     "query_id": "man_bicycle_001",
     "query_text": "a man riding a bicycle",
-    "reference_image_id": "man_bicycle_reference",
+    "reference_image_id": "flickr8k_399f77d75708",
     "required_terms": [
       "man",
       "bicycle"
@@ -62,7 +60,7 @@
   {
     "query_id": "soccer_ball_001",
     "query_text": "a soccer player kicking a ball",
-    "reference_image_id": "soccer_ball_reference",
+    "reference_image_id": "flickr8k_4d8a66384cfc",
     "required_terms": [
       "soccer",
       "ball"
@@ -82,7 +80,7 @@
   {
     "query_id": "horse_field_001",
     "query_text": "a horse running in a field",
-    "reference_image_id": "horse_field_reference",
+    "reference_image_id": null,
     "required_terms": [
       "horse",
       "field"
@@ -93,16 +91,14 @@
       "rider"
     ],
     "query_modes": [
-      "text",
-      "image",
-      "fused"
+      "text"
     ],
     "manual_relevant_image_ids": []
   },
   {
     "query_id": "surfer_wave_001",
     "query_text": "a surfer riding a wave",
-    "reference_image_id": "surfer_wave_reference",
+    "reference_image_id": "flickr8k_7d574f378a10",
     "required_terms": [
       "surfer",
       "wave"
@@ -122,7 +118,7 @@
   {
     "query_id": "people_table_001",
     "query_text": "a group of people sitting at a table",
-    "reference_image_id": "people_table_reference",
+    "reference_image_id": null,
     "required_terms": [
       "people",
       "table"
@@ -140,7 +136,7 @@
   {
     "query_id": "boy_jump_001",
     "query_text": "a boy jumping in the air",
-    "reference_image_id": "boy_jump_reference",
+    "reference_image_id": null,
     "required_terms": [
       "boy",
       "jumping"
