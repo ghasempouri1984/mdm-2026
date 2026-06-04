@@ -22,7 +22,7 @@
   {
     "query_id": "children_beach_001",
     "query_text": "children playing on a beach",
-    "reference_image_id": null,
+    "reference_image_id": "flickr8k_a54193a03087",
     "required_terms": [
       "children",
       "beach"
@@ -33,7 +33,9 @@
       "water"
     ],
     "query_modes": [
-      "text"
+      "text",
+      "image",
+      "fused"
     ],
     "manual_relevant_image_ids": []
   },
@@ -80,7 +82,7 @@
   {
     "query_id": "horse_field_001",
     "query_text": "a horse running in a field",
-    "reference_image_id": null,
+    "reference_image_id": "flickr8k_aa924126bebf",
     "required_terms": [
       "horse",
       "field"
@@ -91,7 +93,9 @@
       "rider"
     ],
     "query_modes": [
-      "text"
+      "text",
+      "image",
+      "fused"
     ],
     "manual_relevant_image_ids": []
   },
@@ -118,7 +122,7 @@
   {
     "query_id": "people_table_001",
     "query_text": "a group of people sitting at a table",
-    "reference_image_id": null,
+    "reference_image_id": "flickr8k_cf819f0866ac",
     "required_terms": [
       "people",
       "table"
@@ -136,7 +140,7 @@
   {
     "query_id": "boy_jump_001",
     "query_text": "a boy jumping in the air",
-    "reference_image_id": null,
+    "reference_image_id": "flickr8k_5df4aa57c242",
     "required_terms": [
       "boy",
       "jumping"
